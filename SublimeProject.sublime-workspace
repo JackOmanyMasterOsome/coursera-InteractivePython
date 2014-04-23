@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"comp_choice"
+			],
+			[
+				"pl",
+				"player_number"
+			],
+			[
+				"comp",
+				"comp_choice"
+			],
+			[
+				"pla",
+				"player_choice"
+			],
+			[
+				"name",
+				"name_to_number"
+			],
+			[
+				"player",
+				"player_number"
+			],
+			[
+				"number",
+				"number_to_name"
+			],
+			[
+				"paper",
+				"paper"
+			],
+			[
+				"temp",
+				"temp_file"
+			],
+			[
+				"te",
+				"temp_file"
+			],
+			[
+				"valu",
+				"value_probability_pairs"
+			],
+			[
+				"val",
+				"value_probability_pairs"
+			],
+			[
+				"sum",
+				"sumOfp"
+			],
+			[
+				"ge",
+				"generate"
+			],
+			[
+				"each",
+				"eachPair"
+			],
+			[
+				"dis",
+				"distributeProb_veByVSquare"
+			],
+			[
+				"value",
+				"value_probability_pairs"
+			],
+			[
+				"value_",
+				"value_probability_pairs"
+			],
+			[
+				"value_s",
+				"value_step_mode"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"cho",
+				"chosenCells"
+			],
+			[
+				"cells",
+				"chosenCells"
+			],
+			[
+				"upda",
+				"updatedValue"
+			],
+			[
+				"up",
+				"updatedValue"
+			],
+			[
+				"num",
+				"numberOfCells"
+			],
+			[
+				"update",
+				"update_board"
+			],
+			[
+				"choos",
+				"choose_random_value"
+			],
+			[
+				"boar",
+				"board_size_breadth"
+			],
+			[
+				"cell",
+				"cellsToUpdate"
+			],
+			[
+				"ran",
+				"randomNumber"
+			],
+			[
+				"rand",
+				"randomRangeEnd"
+			],
+			[
+				"values",
+				"valuesPossible"
+			],
+			[
+				"ra",
+				"randomRangeEnd"
+			],
+			[
+				"firs",
+				"first_iteration_steps"
+			],
+			[
+				"col",
+				"col"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"ve",
+				"VeByVSquare_normalize"
+			],
+			[
+				"v",
+				"v_p_pair"
+			],
+			[
+				"vl",
+				"value_start"
+			],
+			[
+				"P",
+				"PvByVSquare"
+			],
+			[
+				"value_probability_",
+				"value_probability_pairs"
+			],
+			[
+				"board",
+				"board_size"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"choo",
+				"choose_random_cell"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"error",
+				"errord"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"kw",
+				"kwargs"
+			],
+			[
+				"arg",
+				"argsPresent"
+			],
+			[
+				"kwar",
+				"kwargs"
+			],
+			[
+				"sides",
+				"sideSize"
+			],
+			[
+				"side",
+				"sides"
+			],
+			[
+				"sids",
+				"sides"
+			],
+			[
+				"start",
+				"start2"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"SP",
+				"span	Tag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"FON",
+				"font-variant"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"li",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"p",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax: py",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Abdullah/Documents/GitHub/coursera-InteractivePython/MiniProject-3.py",
+		"/C/Users/Abdullah/Documents/GitHub/coursera-InteractivePython/MiniProject-1.py",
+		"/C/Users/Abdullah/Documents/GitHub/coursera-InteractivePython/README.md",
+		"/C/Users/Abdullah/Documents/GitHub/coursera-InteractivePython/MiniProject-2.py",
+		"/C/Users/Abdullah/Google Drive/Coursera/Edx 6.5Fmx - Check This.mdown",
+		"/C/Users/Abdullah/Documents/Prayer Times Project/run.py",
+		"/C/Users/Abdullah/Documents/Prayer Times Project/eachCharAlone.csv",
+		"/C/Users/Abdullah/Documents/Prayer Times Project/Aachen-Germany.csv",
+		"/C/Users/Abdullah/Documents/Prayer Times Project/Prayer Times Only.csv",
+		"/C/Users/Abdullah/Documents/Prayer Times Project/NoHeaders Prayer Times Only.csv",
+		"/C/Users/Abdullah/Documents/Prayer Times Project/PrayerTimes ImportWorthy.csv",
+		"/C/Users/Abdullah/Documents/GitHub/Solve-2048/Test.csv",
+		"/C/Users/Abdullah/Documents/GitHub/Solve-2048/Test.py",
+		"/C/Users/Abdullah/Documents/GitHub/Solve-2048/Board.py",
+		"/C/Users/Abdullah/Documents/GitHub/Solve-2048/Board_wip.py",
+		"/C/Users/Abdullah/Documents/GitHub/Solve-2048/Run.py",
+		"/C/Users/Abdullah/Documents/Solve-2048/Test.py",
+		"/C/Users/Abdullah/Documents/Solve-2048/Run.py",
+		"/C/Users/Abdullah/Documents/Solve-2048/README",
+		"/C/Users/Abdullah/Documents/Solve-2048/Board_wip.py",
+		"/C/Users/Abdullah/Documents/Solve-2048/Board.py",
+		"/C/AndroidStudioProjects/GitHub/coursera-android/Examples/HelloAndroidTest/src/course/examples/HelloWorld/HelloWorld/test/HelloAndroidTest.java",
+		"/C/AndroidStudioProjects/GitHub/coursera-android/Examples/TouchGestures/res/raw/gestures",
+		"/C/ADT Eclipse/adt-bundle-windows-x86/eclipse/eclipse.ini",
+		"/C/Users/Abdullah/Documents/The broadcast receiver class",
+		"/C/Users/Abdullah/Documents/Bluetooth Folder/file.txt",
+		"/C/Users/Abdullah/Videos/Down The Rabbit Hole We Go! 300+ Mind Expanding Documentaries.htm",
+		"/F/Projects/Wasting Time/RCs - Answer Key/Splitter - Python/v1.1.py",
+		"/F/Projects/Wasting Time/RCs - Answer Key/Splitter - Python/v1.py",
+		"/F/Projects/Wasting Time/RCs - Answer Key/Splitter - Python/v0.py",
+		"/C/Users/Abdullah/Google Drive/Satyagrah/Trello - Satyagraha Template.mdown",
+		"/C/Users/Abdullah/Google Drive/Satyagrah/CV Reference Text File.txt",
+		"/C/Users/Abdullah/Google Drive/Satyagrah/Salt of The Earth/Sweden/Chalmers - Specific Requirements Detatils.txt",
+		"/C/Users/Abdullah/Google Drive/Satyagrah/Gourmet/Erasmus Mundus/MERIT/Course Details Referece.txt",
+		"/H/I am lost",
+		"/C/Users/Abdullah/Documents/JoatMon/stylesheet.css",
+		"/C/Users/Abdullah/Documents/JoatMon/main.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"board.py"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	",
+			"lower(name)",
+			"elif lower(name) == \"spock\":\n        return 1",
+			"\\n",
+			",",
+			",,,,,",
+			"Month,Date,Fajr,Sunrise,Duhr,Asr,Maghrib,Isha,,,,,",
+			":\n",
+			"RELATION",
+			"#TODO:",
+			"TODO",
+			"board_size",
+			"#TODO:",
+			"#REMOVE:",
+			"board",
+			"vimeo",
+			" - ",
+			"* ",
+			"[",
+			"](xx)",
+			"_",
+			"dd/mm/",
+			" : ",
+			"] [",
+			">",
+			"	",
+			"•",
+			"		"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"|\\t",
+			"name.lower()",
+			"\"\\n\"",
+			"\n",
+			"\",\"",
+			"",
+			"self",
+			"\\t",
+			"",
+			"xx-xx-",
+			": ",
+			"][",
+			" >",
+			" ",
+			"-",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true
+}
