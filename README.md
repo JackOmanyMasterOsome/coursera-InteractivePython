@@ -20,5 +20,6 @@ You can follow any one of the two options below to enjoy some mini-games:
 ## Links to My Submissions for Mini-Projects by Week
 
 - __Mini-project # 1 - Rock-paper-scissors-lizard-Spock :__ [My Submission](http://www.codeskulptor.org/#user29_tY1xxgQQ5C_2.py)
-- __Mini-project # 2 - "Guess the number" game :__ [My Submission](http://www.codeskulptor.org/#user29_7FCGKw73eDeuO0O_3.py)
+- __Mini-project # 2 - Guess the number :__ [My Submission](http://www.codeskulptor.org/#user29_7FCGKw73eDeuO0O_3.py)
 - __Mini-project # 3 - Stopwatch: The Game :__ [My Submission](http://www.codeskulptor.org/#user30_T8d18hLlGa_17.py) _(Interesting stuff starts from here)_
+- __Mini-project # 4 - Pong :__ [My Submission](http://www.codeskulptor.org/#user30_fH8EfX66AJ_1.py)
